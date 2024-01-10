@@ -3,7 +3,7 @@
 
 - 🌱 Atualmente estou aprendendo **Transact-SQL, Oracle e Python**
 
-- 💬 Me pergunte sobre **Transact-SQL, Power BI e Excel**
+- 💬 Pergunte-me sobre **Transact-SQL, Power BI e Excel**
 
 - 📫 Você me contata através do e-mail **jonasplino@gmail.com**
 
