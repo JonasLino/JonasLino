@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, eu sou Jonas Lino</h1>
-<h3 align="center">Apaixonado por ciência e análise de dados.</h3>
+<h3 align="center">Fascinado por ciência e análise de dados.</h3>
 
 - 🌱 Atualmente estou aprendendo **Transact-SQL, Oracle e Python**
 
