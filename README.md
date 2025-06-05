@@ -1,8 +1,16 @@
 <h1 align="center">Olá 👋, eu sou Jonas Lino</h1>
 
-- 📊 Atuo com **SQL, Microsoft Power BI, Microsoft Dataverse e Python, Análise Descritiva e Preditiva**, com foco em transformar dados em decisões
-- ⚙️ Atualmente estou aprofundando meus conhecimentos em **Engenharia de Dados**
-- 📫 Você pode entrar em contato pelo e-mail: **jonasplino@gmail.com**
+📊 Atuo com:
+- MSSQL
+- MS Power BI
+- MS Dataverse
+- Python
+- Análise Descritiva e Preditiva
+- ETL
+
+⚙️ Atualmente estou aprofundando meus conhecimentos em:
+- Engenharia de Dados
+- Python
 
 ---
 
@@ -14,7 +22,11 @@
   <a href="https://instagram.com/jonas.linoo" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
   </a>
+  <a href="mailto:jonasplino@gmail.com" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="gmail" height="30" width="40" />
+  </a>
 </p>
+
 
 ---
 
