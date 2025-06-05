@@ -31,6 +31,7 @@
 
 <h3 align="left">🛠️ Ferramentas e Tecnologias:</h3>
 <p align="left">
+
   <!-- SQL Server -->
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/>
@@ -44,6 +45,11 @@
   <!-- PostgreSQL -->
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
+  </a>
+
+  <!-- Dataverse -->
+  <a href="https://learn.microsoft.com/pt-br/power-apps/maker/data-platform/data-platform-intro" target="_blank" rel="noreferrer">
+    <img src="https://seeklogo.com/images/M/microsoft-dataverse-logo-A3AE4E1611-seeklogo.com.png" alt="Dataverse" width="40" height="40"/>
   </a>
 
   <!-- Power BI -->
@@ -65,7 +71,9 @@
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
+
 </p>
+
 
 
 ---
