@@ -1,11 +1,8 @@
 <h1 align="center">Olá 👋, eu sou Jonas Lino</h1>
-<h3 align="center">Apaixonado por ciência, dados e soluções inteligentes.</h3>
+<h3 align="center">Apaixonado por análise de dados.</h3>
 
-- 📊 Atuo com **SQL, Microsoft Power BI, Microsoft Dataverse e Python**
-- 🔍 Especialista em **Análise Descritiva e Preditiva**, com foco em transformar dados em decisões
-- 🔄 Experiência com processos de **ETL** para tratamento e integração de dados
-- 🌱 Atualmente estou aprofundando meus conhecimentos em **Transact-SQL, Oracle e Python**
-- 💬 Fique à vontade para conversar sobre **SQL, Power BI, Excel e análise de dados**
+- 📊 Atuo com **SQL, Microsoft Power BI, Microsoft Dataverse e Python, Análise Descritiva e Preditiva**, com foco em transformar dados em decisões
+- ⚙️ Atualmente estou aprofundando meus conhecimentos em **Engenharia de Dados**
 - 📫 Você pode entrar em contato pelo e-mail: **jonasplino@gmail.com**
 
 ---
@@ -46,15 +43,7 @@
 
 ---
 
-<h3 align="left">📈 Áreas de Atuação:</h3>
-<ul>
-  <li>Modelagem e manipulação de dados com **SQL**</li>
-  <li>Desenvolvimento de dashboards e relatórios com **Power BI**</li>
-  <li>Automação de análises com **Python (Pandas, NumPy, etc.)**</li>
-  <li>Uso de **Microsoft Dataverse** em soluções com Power Platform</li>
-  <li>Criação de pipelines de **ETL** para integração de dados</li>
-  <li>Aplicação de **análises descritivas e preditivas** para gerar insights</li>
-</ul>
+
 
 ---
 
