@@ -49,7 +49,7 @@
 
   <!-- Dataverse -->
   <a href="https://learn.microsoft.com/pt-br/power-apps/maker/data-platform/data-platform-intro" target="_blank" rel="noreferrer">
-    <img src="https://seeklogo.com/images/M/microsoft-dataverse-logo-A3AE4E1611-seeklogo.com.png" alt="Dataverse" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/JonasLino/image/0065a4f28a0fe55a1af12e10c5d812a9037e3508/dataverse.svg" alt="Dataverse" width="40" height="40"/>
   </a>
 
   <!-- Power BI -->
