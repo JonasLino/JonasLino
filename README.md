@@ -32,9 +32,9 @@
 <h3 align="left">🛠️ Ferramentas e Tecnologias:</h3>
 <p align="left">
 
-  <!-- SQL Server -->
+  <!-- SSMS -->
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/>
+    <img src="https://github.com/JonasLino/image/blob/e8512da625587ebee69456615764b263eedc0b43/ssms.svg" alt="SQL Server" width="40" height="40"/>
   </a>
 
   <!-- MySQL -->
