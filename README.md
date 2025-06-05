@@ -4,7 +4,6 @@
 - MSSQL
 - MS Power BI
 - MS Dataverse
-- Python
 - Análise Descritiva e Preditiva
 - ETL
 
