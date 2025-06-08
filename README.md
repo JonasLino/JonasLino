@@ -26,9 +26,10 @@ Front-end
 
 
 **Contatos**
+
 [![LinkedIn](https://github.com/JonasLino/image/blob/1d424719d37044b3d0795e4e847249dceefcebbf/Linkedin.svg)](https://www.linkedin.com/in/jonaslino/)
 [![GitHub](https://github.com/JonasLino/image/blob/1d424719d37044b3d0795e4e847249dceefcebbf/GitHub.svg)](https://github.com/JonasLino)
-[![Gmail](https://github.com/JonasLino/image/blob/4436e874132a3e319f322bfa26e7f794463f03b9/Gmail.svg)](mailto:jonasplino@gmail.com)
+[![Gmail](https://github.com/JonasLino/image/blob/b31f328f21dd5970f0cbac87fbe1eb0921bd2a23/Gmail.svg)](mailto:jonasplino@gmail.com)
 
 
 **Ferramentas e Tecnologias:**
