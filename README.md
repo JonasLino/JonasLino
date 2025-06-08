@@ -4,6 +4,7 @@
 - Abr/2024 - Atual | [Unifametro](https://unifametro.edu.br/) | Técnico em Desenvolvimento de Sistemas III
 
 **Conhecimentos:**
+
 Database
 - MSSQL
 - ODBC
@@ -23,7 +24,7 @@ Database
 - Python
 
 
-<h3 align="left">Contatos:</h3>
+**Contatos:**
 <p align="left">
   <a href="https://www.linkedin.com/in/jonaslino/" target="_blank" style="text-decoration: none;">
     <img align="center" src="https://github.com/JonasLino/image/blob/1d424719d37044b3d0795e4e847249dceefcebbf/Linkedin.svg" alt="linkedin" height="30" />
@@ -39,7 +40,7 @@ Database
 
 
 
-<h3 align="left">🛠️ Ferramentas e Tecnologias:</h3>
+**Ferramentas e Tecnologias:**
 <p align="left">
 
   <!-- SSMS -->
