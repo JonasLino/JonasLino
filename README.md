@@ -2,8 +2,9 @@
 
 **Experiência profissional**
 - Abr/2024 - Atual | [Unifametro](https://unifametro.edu.br/) | Técnico em Desenvolvimento de Sistemas III
+- Mar/2025 - Atual | [Unifametro](https://unifametro.edu.br/) | Monitor Acadêmico Bolsista (Fundamentos de Banco de Dados)
 
-**Conhecimentos:**
+**Conhecimentos**
 
 Database
 - MSSQL
@@ -14,28 +15,31 @@ Database
 - Análise Descritiva e Preditiva
 - ETL
 
-**Front-end**
+Front-end
 - HTML, CSS, JavaScript e TypeScript - Básico
 - React e React Native
 
 
-**Atualmente estou aprofundando meus conhecimentos em:**
+**Aprofundando meus conhecimentos em:**
 - Engenharia de Dados
 - Python
 
 
-**Contatos:**
+**Contatos**
 <p align="left">
-  <a href="https://www.linkedin.com/in/jonaslino/" target="_blank" style="text-decoration: none;">
-    <img align="center" src="https://github.com/JonasLino/image/blob/1d424719d37044b3d0795e4e847249dceefcebbf/Linkedin.svg" alt="linkedin" height="30" />
+  <a href="https://www.linkedin.com/in/jonaslino/" target="_blank" style="text-decoration: none; display: inline-block;">
+    <img src="https://github.com/JonasLino/image/blob/1d424719d37044b3d0795e4e847249dceefcebbf/Linkedin.svg" alt="linkedin" height="30" style="vertical-align: middle;" />
   </a>
-  <a href="https://github.com/JonasLino" target="_blank" style="text-decoration: none;">
-    <img align="center" src="https://github.com/JonasLino/image/blob/1d424719d37044b3d0795e4e847249dceefcebbf/GitHub.svg" alt="github" height="30" />
+  
+  <a href="https://github.com/JonasLino" target="_blank" style="text-decoration: none; display: inline-block;">
+    <img src="https://github.com/JonasLino/image/blob/1d424719d37044b3d0795e4e847249dceefcebbf/GitHub.svg" alt="github" height="30" style="vertical-align: middle;" />
   </a>
-  <a href="mailto:jonasplino@gmail.com" target="_blank" style="text-decoration: none;">
-    <img align="center" src="https://github.com/JonasLino/image/blob/1d424719d37044b3d0795e4e847249dceefcebbf/Gmail.svg" alt="gmail" height="30" />
+  
+  <a href="mailto:jonasplino@gmail.com" target="_blank" style="text-decoration: none; display: inline-block;">
+    <img src="https://github.com/JonasLino/image/blob/1d424719d37044b3d0795e4e847249dceefcebbf/Gmail.svg" alt="gmail" height="30" style="vertical-align: middle;" />
   </a>
 </p>
+
 
 
 
