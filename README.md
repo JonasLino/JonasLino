@@ -1,11 +1,9 @@
 <h1 align="center">Jonas Lino</h1>
 
-*Experiência profissional*
-
+**Experiência profissional**
 - Abr/2024 - Atual | [Unifametro](https://unifametro.edu.br/) | Técnico em Desenvolvimento de Sistemas III
 
-Conhecimentos:
-
+**Conhecimentos:**
 Database
 - MSSQL
 - ODBC
@@ -15,12 +13,12 @@ Database
 - Análise Descritiva e Preditiva
 - ETL
 
-Front-end
+**Front-end**
 - HTML, CSS, JavaScript e TypeScript - Básico
 - React e React Native
 
 
-Atualmente estou aprofundando meus conhecimentos em:
+**Atualmente estou aprofundando meus conhecimentos em:**
 - Engenharia de Dados
 - Python
 
