@@ -27,18 +27,19 @@ Front-end
 
 **Contatos**
 <p align="left">
-  <a href="https://www.linkedin.com/in/jonaslino/" target="_blank" style="text-decoration: none; display: inline-block;">
-    <img src="https://github.com/JonasLino/image/blob/1d424719d37044b3d0795e4e847249dceefcebbf/Linkedin.svg" alt="linkedin" height="30" style="vertical-align: middle; border: none;" />
+  <a href="https://www.linkedin.com/in/jonaslino/" target="_blank" style="text-decoration: none; border: none; display: inline-block;">
+    <img src="https://github.com/JonasLino/image/blob/1d424719d37044b3d0795e4e847249dceefcebbf/Linkedin.svg" alt="linkedin" height="30" style="border: none; vertical-align: middle;" />
   </a>
 
-  <a href="https://github.com/JonasLino" target="_blank" style="text-decoration: none; display: inline-block;">
-    <img src="https://github.com/JonasLino/image/blob/1d424719d37044b3d0795e4e847249dceefcebbf/GitHub.svg" alt="github" height="30" style="vertical-align: middle; border: none;" />
+  <a href="https://github.com/JonasLino" target="_blank" style="text-decoration: none; border: none; display: inline-block;">
+    <img src="https://github.com/JonasLino/image/blob/1d424719d37044b3d0795e4e847249dceefcebbf/GitHub.svg" alt="github" height="30" style="border: none; vertical-align: middle;" />
   </a>
 
-  <a href="mailto:jonasplino@gmail.com" target="_blank" style="text-decoration: none; display: inline-block;">
-    <img src="https://github.com/JonasLino/image/blob/1d424719d37044b3d0795e4e847249dceefcebbf/Gmail.svg" alt="gmail" height="30" style="vertical-align: middle; border: none;" />
+  <a href="mailto:jonasplino@gmail.com" target="_blank" style="text-decoration: none; border: none; display: inline-block;">
+    <img src="https://github.com/JonasLino/image/blob/1d424719d37044b3d0795e4e847249dceefcebbf/Gmail.svg" alt="gmail" height="30" style="border: none; vertical-align: middle;" />
   </a>
 </p>
+
 
 
 
