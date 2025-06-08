@@ -1,13 +1,26 @@
-<h1 align="center">Olá 👋, eu sou Jonas Lino</h1>
+<h1 align="center">Jonas Lino</h1>
 
-📊 Atuo com:
+Experiência profissional
+
+- Abr/2024 - Atual | [Unifametro](https://unifametro.edu.br/) | Técnico em Desenvolvimento de Sistemas III
+
+Conhecimentos:
+
+Database
 - MSSQL
+- ODBC
 - MS Power BI
+- DAX
 - MS Dataverse
 - Análise Descritiva e Preditiva
 - ETL
 
-⚙️ Atualmente estou aprofundando meus conhecimentos em:
+Front-end
+- HTML, CSS, JavaScript e TypeScript - Básico
+- React e React Native
+
+
+Atualmente estou aprofundando meus conhecimentos em:
 - Engenharia de Dados
 - Python
 
