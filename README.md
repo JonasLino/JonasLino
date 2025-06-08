@@ -22,23 +22,21 @@ Database
 - Engenharia de Dados
 - Python
 
----
 
 <h3 align="left">Contatos:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/jonaslino/" target="_blank">
-    <img align="center" src="https://github.com/JonasLino/image/blob/1d424719d37044b3d0795e4e847249dceefcebbf/Linkedin.svg" alt="linkedin" height="30" width="40" />
+    <img align="center" src="https://github.com/JonasLino/image/blob/1d424719d37044b3d0795e4e847249dceefcebbf/Linkedin.svg" alt="linkedin" height="30" />
   </a>
   <a href="https://github.com/JonasLino" target="_blank">
-    <img align="center" src="https://github.com/JonasLino/image/blob/1d424719d37044b3d0795e4e847249dceefcebbf/GitHub.svg" alt="instagram" height="30" width="40" />
+    <img align="center" src="https://github.com/JonasLino/image/blob/1d424719d37044b3d0795e4e847249dceefcebbf/GitHub.svg" alt="github" height="30" />
   </a>
   <a href="mailto:jonasplino@gmail.com" target="_blank">
-    <img align="center" src="https://github.com/JonasLino/image/blob/1d424719d37044b3d0795e4e847249dceefcebbf/Gmail.svg" alt="gmail" height="30" width="40" />
+    <img align="center" src="https://github.com/JonasLino/image/blob/1d424719d37044b3d0795e4e847249dceefcebbf/Gmail.svg" alt="gmail" height="30" />
   </a>
 </p>
 
 
----
 
 <h3 align="left">🛠️ Ferramentas e Tecnologias:</h3>
 <p align="left">
