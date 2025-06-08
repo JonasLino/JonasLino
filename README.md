@@ -1,6 +1,6 @@
 <h1 align="center">Jonas Lino</h1>
 
-Experiência profissional
+*Experiência profissional*
 
 - Abr/2024 - Atual | [Unifametro](https://unifametro.edu.br/) | Técnico em Desenvolvimento de Sistemas III
 
