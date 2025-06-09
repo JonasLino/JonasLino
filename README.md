@@ -9,6 +9,7 @@
 Database
 - MSSQL
 - ODBC
+- DW
 - MS Power BI
 - DAX
 - MS Dataverse
