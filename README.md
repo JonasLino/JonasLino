@@ -11,15 +11,10 @@ Database
 - ODBC
 - DW
 - MS Power BI
-- DAX
 - MS Dataverse
+- DAX
 - Análise Descritiva e Preditiva
 - ETL
-
-Front-end
-- HTML, CSS, JavaScript e TypeScript - Básico
-- React e React Native
-
 
 **Aprofundando meus conhecimentos em:**
 - Engenharia de Dados
