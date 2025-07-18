@@ -25,10 +25,3 @@ Front-end
 - Engenharia de Dados
 - Python
 
-
-**Contatos**
-
-[![LinkedIn](https://github.com/JonasLino/image/blob/1d424719d37044b3d0795e4e847249dceefcebbf/Linkedin.svg)](https://www.linkedin.com/in/jonaslino/)
-[![GitHub](https://github.com/JonasLino/image/blob/1d424719d37044b3d0795e4e847249dceefcebbf/GitHub.svg)](https://github.com/JonasLino)
-[![Gmail](https://github.com/JonasLino/image/blob/b31f328f21dd5970f0cbac87fbe1eb0921bd2a23/Gmail.svg)](mailto:jonasplino@gmail.com)
-
